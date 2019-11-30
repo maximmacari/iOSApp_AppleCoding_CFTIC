@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14492.1" systemVersion="18D109" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="NoticiasDB" representedClassName="NoticiasDB" syncable="YES" codeGenerationType="class">
+        <attribute name="content" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="date" attributeType="Date" usesScalarValueType="NO">
+            <userInfo/>
+        </attribute>
+        <attribute name="excerpt" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="favorito" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo/>
+        </attribute>
+        <attribute name="jetpack_featured_media_url" attributeType="URI">
+            <userInfo/>
+        </attribute>
+        <attribute name="link" attributeType="URI">
+            <userInfo/>
+        </attribute>
+        <attribute name="title" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <userInfo>
+            <entry key="key" value="value"/>
+        </userInfo>
+    </entity>
+    <elements>
+        <element name="NoticiasDB" positionX="-63" positionY="-18" width="128" height="165"/>
+    </elements>
+</model>
